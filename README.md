@@ -25,10 +25,6 @@ This is a **personal portfolio website** designed to showcase your work, skills,
 - Tailwind CSS (utility-first CSS framework)
 - JavaScript (Vanilla)
 
-## 📸 Screenshots
-
-> *(Add screenshots here if available)*
-
 ## 🚀 Getting Started
 
 To run the website locally:
